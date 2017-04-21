@@ -1,0 +1,1 @@
+pefile.exe d:\flash.ocx d:\flash

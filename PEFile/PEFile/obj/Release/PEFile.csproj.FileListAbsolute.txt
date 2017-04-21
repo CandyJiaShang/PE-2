@@ -1,0 +1,10 @@
+D:\Programs\PEFile\PEFile\bin\Release\PEFile.exe.config
+D:\Programs\PEFile\PEFile\bin\Release\PEFile.exe
+D:\Programs\PEFile\PEFile\bin\Release\PEFile.pdb
+D:\Programs\PEFile\PEFile\obj\Release\PEFile.exe
+D:\Programs\PEFile\PEFile\obj\Release\PEFile.pdb
+D:\Programs\PEFile\PEFile\obj\Release\PEFile.csprojResolveAssemblyReference.cache
+D:\Programs\PEFile\PEFile\obj\Release\PEFile.FileForm.resources
+D:\Programs\PEFile\PEFile\obj\Release\PEFile.MainForm.resources
+D:\Programs\PEFile\PEFile\obj\Release\PEFile.Properties.Resources.resources
+D:\Programs\PEFile\PEFile\obj\Release\PEFile.csproj.GenerateResource.Cache
